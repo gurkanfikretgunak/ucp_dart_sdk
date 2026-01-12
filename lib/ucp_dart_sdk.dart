@@ -21,11 +21,6 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 // SOFTWARE.
 
-/// UCP Dart SDK
-///
-/// Unofficial Dart library for the Universal Commerce Protocol (UCP).
-library ucp_dart_sdk;
-
 // Core models
 export 'src/models/_internal.dart';
 

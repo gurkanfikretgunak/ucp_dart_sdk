@@ -22,10 +22,9 @@
 // SOFTWARE.
 
 // generated from Python SDK
-// ignore_for_file: public_member_api_docs
+// ignore_for_file: public_member_api_docs, invalid_annotation_target
 
 import 'package:freezed_annotation/freezed_annotation.dart';
-import 'package:json_annotation/json_annotation.dart';
 
 part 'total_update_req.freezed.dart';
 part 'total_update_req.g.dart';
