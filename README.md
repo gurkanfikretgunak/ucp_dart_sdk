@@ -31,6 +31,10 @@ SOFTWARE.
   <b>Unofficial Dart library for the Universal Commerce Protocol (UCP).</b>
 </p>
 
+<p align="center">
+  <img src="doc/images/ucp_dart.png" alt="UCP Dart SDK" />
+</p>
+
 ## Overview
 
 This repository contains the Dart SDK for the
